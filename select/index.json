@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Ash Again",
+  "base_artist": "Gawr Gura和Casey Edwards",
+  "createdAt": "2026-03-23T06:58:09.310826Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ash Again",
+      "artist": "Hannah Hart",
+      "has_synced": true,
+      "path": "select/01_Ash_Again_Hannah_Hart.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ash Again",
+      "artist": "Gawr Gura x Casey Edwards",
+      "has_synced": false,
+      "path": "select/02_Ash_Again_Gawr_Gura_x_Casey_Edwards.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ash Again",
+      "artist": "Gawr Gura, Casey Edwards",
+      "has_synced": true,
+      "path": "select/03_Ash_Again_Gawr_Gura,_Casey_Edwards.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ash Again",
+      "artist": "Gawr Gura, Casey Edwards",
+      "has_synced": true,
+      "path": "select/04_Ash_Again_Gawr_Gura,_Casey_Edwards.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ash Again",
+      "artist": "Gawr Gura、Casey Edwards",
+      "has_synced": true,
+      "path": "select/05_Ash_Again_Gawr_Gura、Casey_Edwards.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ash Again",
+      "artist": "Casey Edwards",
+      "has_synced": true,
+      "path": "select/06_Ash_Again_Casey_Edwards.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ash Again",
+      "artist": "Gawr Gura and Casey Edwards",
+      "has_synced": true,
+      "path": "select/07_Ash_Again_Gawr_Gura_and_Casey_Edwards.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ash Again",
+      "artist": "Gawr Gura",
+      "has_synced": true,
+      "path": "select/08_Ash_Again_Gawr_Gura.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ash Again (Symphonic Rock)",
+      "artist": "Zephyrianna",
+      "has_synced": false,
+      "path": "select/09_Ash_Again_(Symphonic_Rock)_Zephyrianna.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Everybody's Ash Again",
+      "artist": "small kusa",
+      "has_synced": true,
+      "path": "select/10_Everybody's_Ash_Again_small_kusa.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ash Again",
+      "artist": "Gawr Gura和Casey Edwards",
+      "has_synced": true,
+      "path": "select/11_Ash_Again_Gawr_Gura和Casey_Edwards.lrc"
+    }
+  ]
+}
